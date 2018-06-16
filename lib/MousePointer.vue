@@ -1,0 +1,17 @@
+<template>
+<div class="icon" :class="{'iborder':IconBorder }" aria-hidden="true">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+      <path d="M10.8601685,11.9953299l2.5251465,6.0802317L11.1703491,19l-2.5252075-6.050354L5,16.6248779V1.1005249
+	l10.9461327,10.8882742L10.8601685,11.9953299z"/></svg>
+</div>
+
+</template>
+
+<script>
+export default {
+  props: {
+  IconBorder: Boolean
+}
+}
+</script>
+

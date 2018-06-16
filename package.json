@@ -1,0 +1,20 @@
+{
+    "description": "Vue components to render icons of the entypo library",
+    "devDependencies": {
+        "babel-cli": "^6.6.5",
+        "babel-core": "^6.7.4"
+    },
+    "keywords": [
+        "vue",
+        "components",
+        "icons"
+    ],
+    "license": "GPL-3.0-or-later",
+    "main": "index.js",
+    "name": "vue-entypo-icons",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/capriosa/vue-entypo-icons"
+    },
+    "version": "1.0.8"
+}
